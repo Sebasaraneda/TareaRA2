@@ -15,7 +15,7 @@ _Con este comando se instala el compilador de C++_
 ```bash
    sudo apt-get install g++
    ```
-_ Y este comando para instalar la herramienta **make**_
+_Y este comando para instalar la herramienta **make**_
 ```bash
    sudo apt-get install make
    ```
