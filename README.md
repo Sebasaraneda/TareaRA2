@@ -11,25 +11,25 @@ Utilizar el protocolo orientado a la conexión TCP de la capa de transporte.
 ## Pre-requisitos
 Antes de ejecutar los código hay que tener las dependencias necesarias instaladas.
 
-_Con este comando se instala el compilador de C++
+_Con este comando se instala el compilador de C++_
 ```bash
    sudo apt-get install g++
    ```
-_ Y este comando para instalar la herramienta **make**
+_ Y este comando para instalar la herramienta **make**_
 ```bash
    sudo apt-get install make
    ```
 
 ## Compilación y ejecución
-_Ubicarse dentro de la carpeta que contiene los archivos del programa y ejecutar el comando **make** para compilar.
+_Ubicarse dentro de la carpeta que contiene los archivos del programa y ejecutar el comando **make** para compilar._
 ```bash
    make
    ```
-_Posteriormente, ejecutar el programa del server.
+_Posteriormente, ejecutar el programa del server._
 ```bash
    ./server <puerto>
    ```
-_Despues, ejecutar el programa del cliente ingresando la ip y el puerto del servidor.
+_Despues, ejecutar el programa del cliente ingresando la ip y el puerto del servidor._
 ```bash
    ./cliente <ip> <puerto>
    ```
