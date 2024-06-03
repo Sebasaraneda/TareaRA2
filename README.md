@@ -1,6 +1,6 @@
 # Tarea 1 CDR Cuatro en linea 
 ## Descripción
-Implementar el Juego Cuatro en Línea mediante el modelo Cliente/Servidor. Para ello, debe crear dos programas de los cuales uno funcionará como el Servidor de juegos (con peticiones concurrentes) y el otro será el Cliente que se conectará al servidor para jugar.
+Implementar el Juego Cuatro en Línea mediante el modelo Cliente/Servidor. Para ello, se crearon dos programas de los cuales uno funcionará como el Servidor de juegos (con peticiones concurrentes) y el otro será el Cliente que se conectará al servidor para jugar.
 
 ## Objetivos 
 
