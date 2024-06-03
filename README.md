@@ -34,5 +34,5 @@ _Despues, ejecutar el programa del cliente ingresando la ip y el puerto del serv
    ./cliente <ip> <puerto>
    ```
 ## Integrantes:
-Sebastián Araneda
-Alexandra Sepúlveda
+Sebastián Araneda Y 
+Alexandra Sepúlveda.
